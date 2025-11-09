@@ -1,5 +1,6 @@
 Soultion:
-$\left(e^{m\left|t\right|}\sin\left(0.3t\right)\cos k,\ e^{m\left|t\right|}\sin\left(0.3t\right)\sin k\right)$
+$\left(e^{0.03 \left|t\right|} \sin(0.3 t) \cos\left(\frac{30 \pi}{180}\right),\ e^{0.03 \left|t\right|} \sin(0.3 t) \sin\left(\frac{30 \pi}{180}\right)\right)$
+
 
 Estimated parameters:
    X = 55.000
