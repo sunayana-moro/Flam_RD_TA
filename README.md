@@ -7,6 +7,6 @@ Estimated parameters:
    θ = 30.000° (0.524 rad)
 Desmos link: https://www.desmos.com/calculator/1q6q4m1f8z
    
-Explanation is in the markdown of the jupyter notebook
+Explanation, code and math is in the markdown of the jupyter notebook
 
   
