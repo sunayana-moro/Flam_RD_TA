@@ -1,6 +1,5 @@
 Soultion:
-$\left(e^{0.03 \left|t\right|} \sin(0.3 t) \cos\left(\frac{30 \pi}{180}\right),\ e^{0.03 \left|t\right|} \sin(0.3 t) \sin\left(\frac{30 \pi}{180}\right)\right)$
-
+$$\left(t*\cos(30*\pi/180)-e^{0.03\left|t\right|}*\sin(0.3*t)*\sin(30*\pi/180)+55,42+t*\sin(30*\pi/180)+e^{0.03\left|t\right|}*\sin(0.3*t)*\cos(30*\pi/180)\right)$$
 
 Estimated parameters:
    X = 55.000
