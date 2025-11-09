@@ -1,2 +1,11 @@
-# Flam_RD_TA
-Fit implicit 2D curves to data using nonlinear regression to estimate rotation, shift, and scaling parameters, with visualization of original and fitted curves.
+Soultion:
+$\left(e^{m\left|t\right|}\sin\left(0.3t\right)\cos k,\ e^{m\left|t\right|}\sin\left(0.3t\right)\sin k\right)$
+
+Estimated parameters:
+   X = 55.000
+   m = 0.030000
+   θ = 30.000° (0.524 rad)
+   
+Explanation is in the markdown of the jupyter notebook
+
+  
