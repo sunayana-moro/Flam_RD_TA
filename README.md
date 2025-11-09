@@ -1,5 +1,6 @@
-Soultion:
-$$\left(t*\cos(30*\pi/180)-e^{0.03\left|t\right|}*\sin(0.3*t)*\sin(30*\pi/180)+55,42+t*\sin(30*\pi/180)+e^{0.03\left|t\right|}*\sin(0.3*t)*\cos(30*\pi/180)\right)$$
+Solution:
+
+$\left(t*\cos(30*\pi/180)-e^{0.03\left|t\right|}*\sin(0.3*t)*\sin(30*\pi/180)+55,42+t*\sin(30*\pi/180)+e^{0.03\left|t\right|}*\sin(0.3*t)*\cos(30*\pi/180)\right)$
 
 Estimated parameters:
 
